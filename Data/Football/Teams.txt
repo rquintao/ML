@@ -1,0 +1,20 @@
+Famalicao	1
+Guimaraes	2
+Nacional	3
+Porto	4
+Santa Clara	5
+Moreirense	6
+Tondela	7
+Portimonense	8
+Sp Braga	9
+Maritimo	10
+Boavista	12
+Farense	13
+Gil Vicente	14
+Pacos Ferreira	15
+Rio Ave	16
+Belenenses	17
+Sp Lisbon	18
+Setubal	19
+Aves	20
+Benfica	21
